@@ -1,0 +1,1 @@
+adoop jar /home/cloudera/Desktop/HybridRelativeFrequencies.jar /user/cloudera/relfreq/input /user/cloudera/relfreq/output

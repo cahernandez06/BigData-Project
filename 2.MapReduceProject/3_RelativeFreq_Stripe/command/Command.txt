@@ -1,0 +1,1 @@
+hadoop jar /home/cloudera/Desktop/StripeRelativeFrequencies.jar /user/cloudera/relfreq/input /user/cloudera/relfreq/output
